@@ -1,5 +1,5 @@
 name: movie-editor-bot
-runtime: python3.10
+runtime: python3
 command: python3 main.py
 env:
   - API_ID: "YOUR_API_ID"
